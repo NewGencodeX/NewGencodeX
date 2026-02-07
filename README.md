@@ -19,9 +19,9 @@ I enjoy turning complex ideas into simple, practical solutions and I’m especia
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, Java, SQL (growing)
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook
-* **Concepts:** Data Analysis, OOP, Algorithms, Problem Solving
+* **Languages:** Python, Numpy, Pandas, Sci-kit Learn, Java, SQL, Excel, Google Sheet (growing)
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+* **Concepts:** Data Analysis, OOP, Algorithms, Problem Solving, Machine Learning
 
 ---
 
